@@ -1,0 +1,16 @@
+{
+  "name": "gjack-scroller",
+  "version": "1.0.0",
+  "description": "easy-to-use scrolling library",
+  "main": "src/index.js",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "esbuild": "^0.15.11",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
