@@ -2,7 +2,8 @@
   "name": "gjack-scroller",
   "version": "1.0.0",
   "description": "easy-to-use scrolling library",
-  "main": "src/index.js",
+  "main": "dist/index.js",
+  "module": "dist/index.mjs",
   "license": "MIT",
   "peerDependencies": {
     "react": "^18.2.0",
