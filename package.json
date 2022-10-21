@@ -29,7 +29,7 @@
   "dependencies": {},
   "scripts": {
     "storybook": "start-storybook -p 6006",
-    "build": "node esbuild && cp ./src/*.d.ts dist",
+    "build": "node esbuild && yarn tsc",
     "build-storybook": "build-storybook"
   }
 }
